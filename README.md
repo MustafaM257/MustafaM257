@@ -14,7 +14,7 @@ Here's a JSON object representing my skills:
     "frontend": ["HTML", "CSS", "TailwindCSS", "React", "NextJS", "Vue", "NuxtJS"],
     "backend": ["Node.js", "Express", "Laravel", "Rest APIs"],
     "database": ["MySQL", "PostgreSQL", "MongoDB"],
-    "devops": ["AWS", "Docker", "K8s"],
+    "devops": ["AWS", "Docker"],
     "typingSpeed": "Over 150 Words Per Minute"
   }
 }

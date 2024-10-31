@@ -1,11 +1,10 @@
 
 
-## 👋 Hello, I'm Mostafa Mohammad!
+## 👋 Hello, I'm Mostafa!
 
 
-## 📊 Import default me :)
+## 📊  default >
 
-Here's a JSON object representing my skills:
 
 ```json
 {
